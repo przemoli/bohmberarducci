@@ -1,0 +1,13 @@
+{
+    "name": "monadicdragon/bohm-berarducci-in-php",
+    "description": "Showcase of Böhm-Berarducci encoding and playground for visitor pattern",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Przemysław Lib",
+            "email": "monadicdragon@gmail.com"
+        }
+    ],
+    "require": {}
+}
