@@ -9,5 +9,7 @@
             "email": "monadicdragon@gmail.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "vimeo/psalm": "^4.3"
+    }
 }
